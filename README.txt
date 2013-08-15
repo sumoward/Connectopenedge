@@ -1,0 +1,1 @@
+A python class to connect to the Progress OpenEdge RollBase API
